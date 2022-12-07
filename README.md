@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/felipe_garcia0x0/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](www.linkedin.com/in/fgarcia0x0)
+)](https://www.linkedin.com/in/fgarcia0x0)
 
 <div>
   <a href="https://github.com/fgarcia0x0">
